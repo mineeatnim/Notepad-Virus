@@ -1,1 +1,2 @@
 # Notepad-Virus
+olny windows 
